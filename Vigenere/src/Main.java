@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 /**
  * The Main class is responsible for user input and output operations.
- * It interacts with the VigenereUsecase and VigenerePresenter to perform
- * encryption and decryption of messages using the Vigenere cipher.
+ * It interacts with the Presenter to perform
+ * encryption and decryption of messages.
  */
 public class Main {
     public static void main(String[] args) {
